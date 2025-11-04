@@ -4,7 +4,6 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Mobile%20Responsive-Yes-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Built%20With-PHP%20%7C%20MySQL%20%7C%20JS%20%7C%20HTML%20%7C%20CSS-informational?style=for-the-badge" />
 </p>
 
@@ -68,12 +67,5 @@ A file named [`Frontend & Database/Credentials`](Frontend%20&%20Database/Credent
 - Follow consistent code style and add comments where necessary.
 - Submit a pull request with a clear description of your changes.
 - Ensure your code does not break existing functionality and passes any available tests.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.
 
 ---
